@@ -20,12 +20,7 @@ The platform provides a secure and user-friendly environment for **Admins** and 
 <table width="100%">
 
 
-<tr>
-<td align="center"><b>Exam Page (with Pagination)</b></td>
-</tr>
-<tr>
-<td align="center"><img src="https://github.com/sumitkumar1503/online-exam-system/blob/master/screenshots/exampage.png" width="90%"></td>
-</tr>
+
 
 <tr>
 <td align="center"><b>Admin Dashboard</b></td>
